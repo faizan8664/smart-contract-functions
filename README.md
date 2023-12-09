@@ -1,4 +1,4 @@
-# CustomToken Smart Contract
+# myToken Smart Contract
 
 ## Overview
 
